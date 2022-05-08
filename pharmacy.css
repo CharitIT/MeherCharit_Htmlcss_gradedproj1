@@ -16,13 +16,13 @@ body {
 header {
     background-color: darkgrey;
     padding: 1%;
+    text-align: center;
 }
 
 h1 {
     color: white;
     position: relative;
     right: 4%;
-    text-align: right;
 }
 
 
@@ -40,7 +40,7 @@ li {
 ul {
     list-style-type: none;
     overflow: hidden;
-    background-color: lightgray;
+    background-color: gray;
     margin: 0;
 }
 
